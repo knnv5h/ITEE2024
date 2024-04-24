@@ -52,5 +52,6 @@
 > ![螢幕擷取畫面 2024-04-25 005904](https://github.com/knnv5h/ITEE2024/assets/43922704/61c6d364-8b4f-4fb4-a7e8-6e5d27214277)
 
 # 音樂生成
-###　Suno AI
-> 
+### Suno AI
+> https://github.com/knnv5h/ITEE2024/assets/43922704/48e7c81a-1205-45f0-9f76-edf8c503905e
+
