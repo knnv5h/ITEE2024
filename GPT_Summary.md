@@ -1,5 +1,6 @@
-# 最有幫助的七個練習
-## 1.範本化 Prompt
+# 最有幫助的練習
+
+## ❶
 ## 2.角色扮演
 ## 3.Prompt temperature
 ## 4.Prompt with variables
