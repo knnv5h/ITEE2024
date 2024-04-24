@@ -1,4 +1,4 @@
-# 最有幫助的練習(ChatGPT、‎Gemini、Claude)
+# 最有幫助的練習(ChatGPT、‎Gemini、Claude、Microsoft Copilot、Stable Diffusion、Suno AI)
 
 # ❶ 常用基本 Prompt
 - 同時運用了總結、萃取、翻譯的Prompt 範例
@@ -27,7 +27,7 @@
 ### Claude:
 > ![螢幕擷取畫面 2024-04-25 002205](https://github.com/knnv5h/ITEE2024/assets/43922704/ab7eb0ea-e1f1-4d7a-9b76-d764faf753ac)
 
-# ❹ 常用格式控制
+# ❹ 範本化 Prompt
 -ChatGPT針對 [ ] 符號所包起來的內容，會判別為Placeholder 佔位符，透過這個技巧，可以讓你的提示語輸出十分結構化
 ### ChatGPT:
 > ![螢幕擷取畫面 2024-04-25 002644](https://github.com/knnv5h/ITEE2024/assets/43922704/288b0658-a522-4b1d-b532-4714c31edc84)
@@ -37,3 +37,20 @@
 > ![螢幕擷取畫面 2024-04-25 002705](https://github.com/knnv5h/ITEE2024/assets/43922704/e42b3101-100f-4b09-ad48-69aba3391277)
 
 # ❺ 顯示圖片
+### Stable Diffusion:
+> ![螢幕擷取畫面 2024-04-25 004930](https://github.com/knnv5h/ITEE2024/assets/43922704/eb25b262-a426-458d-916f-448a5279e765)
+### Microsoft Copilot:
+> ![螢幕擷取畫面 2024-04-25 005428](https://github.com/knnv5h/ITEE2024/assets/43922704/3f7eebbf-5140-4245-9c89-caf48945bff2)
+
+# ❻ 角色扮演
+-指定角色並同時運用反問法的技巧，讓GPT向你提問
+### ChatGPT:
+> ![螢幕擷取畫面 2024-04-25 005842](https://github.com/knnv5h/ITEE2024/assets/43922704/05bbaeb6-1cde-4145-8c18-8831ca1f6745)
+### Gemini:
+> ![螢幕擷取畫面 2024-04-25 005857](https://github.com/knnv5h/ITEE2024/assets/43922704/6fd73656-9a57-44a1-8fba-3f634640d37d)
+### Claude:
+> ![螢幕擷取畫面 2024-04-25 005904](https://github.com/knnv5h/ITEE2024/assets/43922704/61c6d364-8b4f-4fb4-a7e8-6e5d27214277)
+
+# 音樂生成
+###　Suno AI
+> 
