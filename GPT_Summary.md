@@ -19,7 +19,7 @@
 > ![螢幕擷取畫面 2024-04-25 001532](https://github.com/knnv5h/ITEE2024/assets/43922704/ff94b044-6cef-44a6-b17b-57739278f7fc)
 
 # ❸ 常用格式控制
--Table  表格
+- Table  表格
 ### ChatGPT:
 > ![螢幕擷取畫面 2024-04-25 002146](https://github.com/knnv5h/ITEE2024/assets/43922704/385385ff-65c4-418a-afdb-8c2c9f40ac6d)
 ### Gemini:
@@ -28,7 +28,7 @@
 > ![螢幕擷取畫面 2024-04-25 002205](https://github.com/knnv5h/ITEE2024/assets/43922704/ab7eb0ea-e1f1-4d7a-9b76-d764faf753ac)
 
 # ❹ 範本化 Prompt
--ChatGPT針對 [ ] 符號所包起來的內容，會判別為Placeholder 佔位符，透過這個技巧，可以讓你的提示語輸出十分結構化
+- ChatGPT針對 [ ] 符號所包起來的內容，會判別為Placeholder 佔位符，透過這個技巧，可以讓你的提示語輸出十分結構化
 ### ChatGPT:
 > ![螢幕擷取畫面 2024-04-25 002644](https://github.com/knnv5h/ITEE2024/assets/43922704/288b0658-a522-4b1d-b532-4714c31edc84)
 ### Gemini:
@@ -43,7 +43,7 @@
 > ![螢幕擷取畫面 2024-04-25 005428](https://github.com/knnv5h/ITEE2024/assets/43922704/3f7eebbf-5140-4245-9c89-caf48945bff2)
 
 # ❻ 角色扮演
--指定角色並同時運用反問法的技巧，讓GPT向你提問
+- 指定角色並同時運用反問法的技巧，讓GPT向你提問
 ### ChatGPT:
 > ![螢幕擷取畫面 2024-04-25 005842](https://github.com/knnv5h/ITEE2024/assets/43922704/05bbaeb6-1cde-4145-8c18-8831ca1f6745)
 ### Gemini:
