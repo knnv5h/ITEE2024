@@ -1,5 +1,15 @@
 # 最有幫助的練習(ChatGPT、‎Gemini、Claude、Microsoft Copilot、Stable Diffusion、Suno AI)
 
+目錄
+---
+- [常用基本 Prompt](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E5%B8%B8%E7%94%A8%E5%9F%BA%E6%9C%AC-prompt)
+- [使用語氣、風格與修辭](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E4%BD%BF%E7%94%A8%E8%AA%9E%E6%B0%A3%E9%A2%A8%E6%A0%BC%E8%88%87%E4%BF%AE%E8%BE%AD)
+- [常用格式控制](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E5%B8%B8%E7%94%A8%E6%A0%BC%E5%BC%8F%E6%8E%A7%E5%88%B6)
+- [範本化 Prompt](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E7%AF%84%E6%9C%AC%E5%8C%96-prompt)
+- [顯示圖片](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E9%A1%AF%E7%A4%BA%E5%9C%96%E7%89%87)
+- [角色扮演](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94)
+- [音樂生成](https://github.com/knnv5h/ITEE2024/blob/main/GPT_Summary.md#-%E9%9F%B3%E6%A8%82%E7%94%9F%E6%88%90)
+
 # ❶ 常用基本 Prompt
 - 同時運用了總結、萃取、翻譯的Prompt 範例
 ### ChatGPT:
