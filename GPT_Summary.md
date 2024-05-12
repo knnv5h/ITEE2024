@@ -1,3 +1,32 @@
+- [最有幫助的練習(ChatGPT、‎Gemini、Claude、Microsoft Copilot、Stable Diffusion、Suno AI)](#--------chatgpt--gemini-claude-microsoft-copilot-stable-diffusion-suno-ai-)
+- [❶ 常用基本 Prompt](#-------prompt)
+    + [ChatGPT:](#chatgpt-)
+    + [Gemini:](#gemini-)
+    + [Claude:](#claude-)
+- [❷ 使用語氣、風格與修辭](#------------)
+    + [ChatGPT:](#chatgpt--1)
+    + [Gemini:](#gemini--1)
+    + [Claude:](#claude--1)
+- [❸ 常用格式控制](#--------)
+    + [ChatGPT:](#chatgpt--2)
+    + [Gemini:](#gemini--2)
+    + [Claude:](#claude--2)
+- [❹ 範本化 Prompt](#------prompt)
+    + [ChatGPT:](#chatgpt--3)
+    + [Gemini:](#gemini--3)
+    + [Claude:](#claude--3)
+- [❺ 顯示圖片](#------)
+    + [Stable Diffusion:](#stable-diffusion-)
+    + [Microsoft Copilot:](#microsoft-copilot-)
+- [❻ 角色扮演](#------)
+    + [ChatGPT:](#chatgpt--4)
+    + [Gemini:](#gemini--4)
+    + [Claude:](#claude--4)
+- [❼ 音樂生成](#------)
+    + [Suno AI](#suno-ai)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # 最有幫助的練習(ChatGPT、‎Gemini、Claude、Microsoft Copilot、Stable Diffusion、Suno AI)
 
 # ❶ 常用基本 Prompt
