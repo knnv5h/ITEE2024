@@ -4,8 +4,11 @@
 - Code  
 ```python
 from tensorflow import keras
+
+# 加載 MNIST 數據集
 (train_image, train_label), (test_image, test_label) = keras.datasets.mnist.load_data()
 
+# 列印數據集的形狀
 print("train image dataset =", train_image.shape)
 print("train label dataset =",train_label.shape)
 print("test image dataset =",test_image.shape)
@@ -17,6 +20,7 @@ import matplotlib.pyplot as plt
 
 plt.figure(figsize=(14,14)) #設定圖片呈現大小
 
+# 繪製前10個訓練圖像
 for i in range(0,10):
   ax=plt.subplot(5,5,1+i)
   ax.imshow(train_image[i])
@@ -28,17 +32,18 @@ plt.show()
 
 ```python
 import numpy as np
-# convert 28x28 image to 784 array, datatype unit8 -> float32
+
+# 將 28x28 圖像轉換為 784 陣列，數據類型 uint8 -> float32
 x_train = train_image.reshape(60000, 784).astype('float32') #np.float32
 x_test = test_image.reshape(10000, 784).astype('float32')
 
-# normalize the image numbers to 0~1
+# 將圖像數字正規化為 0~1
 x_train /= 255   # x_train = x_train / 255
 x_test /= 255
 ```
 
 ```python
-# convert label numbers to one-hot encoding
+# 將標籤數字轉換為 one-hot 編碼
 from tensorflow.keras.utils import to_categorical
 
 y_train=to_categorical(train_label, 10)
