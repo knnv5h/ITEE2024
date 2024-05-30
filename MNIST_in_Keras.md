@@ -64,7 +64,9 @@ print(model.summary())
 ```
 
 ```python
+# 編譯模型
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+# 訓練模型
 train_history =model.fit(x=x_train, y=y_train, epochs=20, batch_size=64, validation_split=0.2)
 ```
 
@@ -74,6 +76,7 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 
 from PIL import Image
+# 開啟圖片並轉換為灰度模式
 img = Image.open('num.png').convert('L') #灰階圖片
 img = img.resize((28,28))
 
